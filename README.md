@@ -1,4 +1,4 @@
-# Canon EOS 750D as Webcam on Linux Mint
+# Canon as Webcam on Linux Mint
 
 ## Installation (first time only)
 
